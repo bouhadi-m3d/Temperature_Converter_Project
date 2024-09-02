@@ -59,4 +59,4 @@ Contributions are welcome! If you would like to contribute to this project, plea
 
 If you have any questions or suggestions, feel free to reach out:
 
-- GitHub: [https://x.com/ChrolloM3d)
+- X: [https://x.com/ChrolloM3d)
