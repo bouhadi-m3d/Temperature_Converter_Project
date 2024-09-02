@@ -12,8 +12,7 @@ Welcome to the **Temperature Converter Project**. This is a simple C++ program t
 
 ## Features
 
-- **Convert from Celsius to Fahrenheit**: Easily convert any temperature from Celsius to Fahrenheit.
-- **Convert from Fahrenheit to Celsius**: Easily convert any temperature from Fahrenheit to Celsius.
+- **Converting temperatures between Celsius, Fahrenheit, and Kelvin.**: Easily convert any temperature.
 
 ## Installation
 
